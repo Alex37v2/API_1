@@ -31,7 +31,7 @@
       "currency": {
         "type": "string",
         "propertyNames": {
-          "currency": ["RUB", "USD"]
+          "currency": ["RUR", "USD"]
         }
       }
     }
